@@ -1,0 +1,2 @@
+# VoiceGiggles
+VoiceGiggles is a delightful iOS app that adds a touch of humor to your voice recordings. Transform your ordinary voice into a variety of funny and entertaining voices, bringing laughter and amusement to your conversations and audio creations. Whether you want to sound like a cartoon character, a robot, or even a chipmunk, VoiceGiggles offers a range of voice morphing options to spark joy and laughter. Download VoiceGiggles now and let the giggles begin!
